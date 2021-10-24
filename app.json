@@ -1,9 +1,9 @@
 {
-    "name": "LXR-YOUTUBER",
+    "name": "NIPU",
     "description": "LXR-YOUTUBER is the Modified Version of WhatsAsena, Made By LXR AMAL with Baileys.",
     "logo": "https://te.ph/file/6cae56a1a71342777acdc.jpg",
     "keywords": ["whatsapp", "userbot", "julie", "WhatsAsena", "mwol", "bot", "ai"],
-    "repository": "https://github.com/LXR-YOUTUBER-AMAL/Amalser_v2",
+    "repository": "https://github.com/isuwabrooo/nipu",
     "website":   "https://github.com/LXR-YOUTUBER-AMAL/Amalser_v2",
     "success_url": "https://github.com/farhan-dqz/Julie-Mwol",
     "stack": "container",
